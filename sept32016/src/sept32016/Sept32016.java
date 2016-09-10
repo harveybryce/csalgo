@@ -30,6 +30,7 @@ public class Sept32016 {
         n = scan.nextInt();
         sumn(n);
         System.out.println(sumn(n));
+        System.out.println("Test git");
 
     }
 }
